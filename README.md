@@ -15,9 +15,13 @@ Curioso por tecnologia e programação. Gosto de aprender fazendo e criar minhas
 
 #### [Cutting](https://github.com/LucasGulich/Cutting) · editor de vídeo de mesa para Windows
 
-Linha do tempo em faixas, 16 transições, chroma key, títulos e legendas, e exportação nos formatos que as redes pedem — 16:9, 9:16, 1:1. Feito com Electron e FFmpeg, roda 100% local: sem nuvem, sem conta, sem marca d'água.
+Uma ferramenta de edição de vídeo que desenvolvi por necessidade e também como projeto para explorar, em conjunto, as possibilidades de desenvolvimento com o Claude.
 
-A parte que deu mais trabalho foi a exportação. Ela escolhe o caminho conforme a montagem: quando é uma faixa só, sem efeitos, junta os arquivos sem recodificar — instantâneo e sem perda de qualidade. Quando há camadas, transições ou texto, compõe em duas etapas, porque um grafo único de filtros com tudo dentro fica grande demais e quebra fácil.
+Ela conta com linha do tempo em faixas, 16 transições, chroma key, títulos e legendas, além de exportação nos formatos mais usados pelas redes sociais — 16:9, 9:16 e 1:1.
+
+Construída com Electron e FFmpeg, roda 100% localmente, sem nuvem, conta ou marca d'água.
+
+A exportação adapta o processamento conforme a montagem: em projetos simples, com uma única faixa e sem efeitos, os arquivos são unidos sem recodificação, preservando a qualidade original e tornando o processo praticamente instantâneo. Já em projetos com camadas, transições ou textos, a composição é feita em etapas para manter o processamento mais estável.
 
 `JavaScript` `Electron` `FFmpeg` `Node.js`
 
@@ -30,6 +34,7 @@ A parte que deu mais trabalho foi a exportação. Ela escolhe o caminho conforme
 | **[sysmocrud](https://github.com/LucasGulich/sysmocrud)** | CRUD com Java no backend e Angular no frontend |
 | **[crudSpring](https://github.com/LucasGulich/crudSpring)** | CRUD com Java + Spring |
 | **[AngularProjectTest](https://github.com/LucasGulich/AngularProjectTest)** | Estudos com Angular 20 |
+| **[CrudFuncionarios](https://https://github.com/LucasGulich/CrudFuncionarios)** | Crud desenvolvido na graduação  |
 
 <br>
 

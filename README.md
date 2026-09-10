@@ -1,7 +1,10 @@
-### Olá, eu sou o Lucas 👋
+### Olá, eu sou o Lucas
 
-Desenvolvedor de software. Trabalho com sistemas de gestão — Java e Spring no backend, Angular no frontend — e, fora do horário, construo ferramentas de desktop. Normalmente porque precisei de alguma e não achei uma que me servisse.
+Trabalho com sistemas de gestão.
 
+Curioso por tecnologia e programação. Gosto de aprender fazendo e criar minhas próprias ferramentas, principalmente quando preciso de algo que não encontro pronto ou que poderia funcionar melhor de outra forma. Ainda estou construindo meu caminho na programação, mas gosto de transformar ideias e necessidades do dia a dia em projetos reais.
+
+**• Linguagens que mais usei nos projetos:**
 **Backend:** Java · Spring · Node.js<br>
 **Frontend:** Angular · TypeScript · JavaScript<br>
 **Desktop:** Electron · FFmpeg

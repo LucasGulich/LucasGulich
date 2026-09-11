@@ -34,7 +34,7 @@ A exportação adapta o processamento conforme a montagem: em projetos simples, 
 | **[sysmocrud](https://github.com/LucasGulich/sysmocrud)** | CRUD com Java no backend e Angular no frontend |
 | **[crudSpring](https://github.com/LucasGulich/crudSpring)** | CRUD com Java + Spring |
 | **[AngularProjectTest](https://github.com/LucasGulich/AngularProjectTest)** | Estudos com Angular 20 |
-| **[CrudFuncionarios](https://https://github.com/LucasGulich/CrudFuncionarios)** | Crud desenvolvido na graduação  |
+| **[CrudFuncionarios](https://github.com/LucasGulich/CrudFuncionarios)** | CRUD desenvolvido na graduação |
 
 <br>
 
